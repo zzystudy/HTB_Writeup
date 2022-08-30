@@ -12,7 +12,7 @@ Writeup about HTB Machines and Challenges
 - [Late](https://github.com/zzystudy/HTB_Writeup/tree/main/Machines/Late.pdf)
 - [Monteverde](https://github.com/zzystudy/HTB_Writeup/tree/main/Machines/Monteverde.pdf)
 - [Nest](https://github.com/zzystudy/HTB_Writeup/tree/main/Machines/Nest.pdf)
-- [OpenAdmin](https://github.com/zzystudy/HTB_Writeup/tree/main/Machines/Open%20Admin.pdf)
+- [Open Admin](https://github.com/zzystudy/HTB_Writeup/tree/main/Machines/Open%20Admin.pdf)
 - [Resolute](https://github.com/zzystudy/HTB_Writeup/tree/main/Machines/Resolute.pdf)
 - [Sauna](https://github.com/zzystudy/HTB_Writeup/tree/main/Machines/Sauna.pdf)
 
