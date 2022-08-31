@@ -15,7 +15,7 @@ Writeup about HTB Machines and Challenges
 - [Open Admin](https://github.com/zzystudy/HTB_Writeup/tree/main/Machines/Open%20Admin.pdf)
 - [Resolute](https://github.com/zzystudy/HTB_Writeup/tree/main/Machines/Resolute.pdf)
 - [Sauna](https://github.com/zzystudy/HTB_Writeup/tree/main/Machines/Sauna.pdf)
-- [support](https://github.com/zzystudy/HTB_Writeup/tree/main/Machines/support.rar）
+- [Support](https://github.com/zzystudy/HTB_Writeup/tree/main/Machines/Support.rar）
 
 
 ### Chanllenges
