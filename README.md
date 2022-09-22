@@ -16,6 +16,7 @@ Writeup about HTB Machines and Challenges
 - [Resolute](https://github.com/zzystudy/HTB_Writeup/tree/main/Machines/Resolute.pdf)
 - [Sauna](https://github.com/zzystudy/HTB_Writeup/tree/main/Machines/Sauna.pdf)
 - [Reel](https://github.com/zzystudy/HTB_Writeup/tree/main/Machines/Reel.pdf)
+- [Mantis](https://github.com/zzystudy/HTB_Writeup/tree/main/Machines/Mantis.pdf)
 
 ### Chanllenges
 
